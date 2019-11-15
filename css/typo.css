@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Exo|Unica+One|Vollkorn:400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Merriweather:400,400i|Playfair+Display:400i&display=swap');
+
+
+h5{
+  font-family: 5px/68px 'Abril Fatface', Georgia, serif;
+  text-transform: uppercase;
+  font-size: 75px;
+  color: #669933;
+}
+
+.phraseitalic {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 30px;
+  color: #669933;
+}
+
+.fables01 h1{
+  font-family: 'Unica One', cursive;
+  color: #CC3311;
+  font-size: 24px;
+}
+
+.fables01 p{
+  font-family: 'Vollkorn', serif;
+  color: #333333;
+  font-size: 16px;
+}
+
+h2{
+
+  font-family: 'Vollkorn', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 12px;
+  color: #cc992c
+}
+
+.et {
+  font-size: 80px;
+  font-weight: 900;
+}
+
+.fables02 p{
+  font-family: 'Exo', sans-serif;
+  font-size: 13px;
+  color: #cc992c
+}
+
+h3{
+  font-family: 'Yeseva One', cursive;
+  letter-spacing: -0.04em;
+  line-height: 1.1em;
+  font-size: 80px;
+}
+
+.fables03 p{
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 12.8px;
+  color: #37424A;
+}
+
+h4{
+  font-family: 'Merriweather', serif;
+  color: #37424A;
+  font-style: italic;
+  font-size: 1.2em
+}

@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+}
+
+h5, .phraseitalic{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  line-height: 0;
+}
+
+.phraseitalic{
+  margin-top: -70px;
+}
+
+.fables01 {
+  background-color: white;
+  padding: 50px;
+}
+
+h1{
+  max-width: 920px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.fables01 p{
+  max-width: 460px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+.feuille{
+  max-width: 60px;
+  max-height: 120px;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 30px;
+}
+
+.fables02{
+  background-image: url('images/fond_aigle.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #14161E;
+  background-attachment: fixed;
+}
+
+h2{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  margin-bottom: -30px;
+}
+
+.et{
+  margin-bottom: -50px;
+}
+
+.texte02{
+  padding: 30px;
+}
+
+.fables02 p{
+  max-width: 340px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  text-align: justify;
+}
+
+.fables03{
+    background-color: #F2D653;
+    height: 800px;
+}
+
+.fables03 hr{
+    border-top: 1px dashed #37424A;
+    border-bottom: none;
+}
+
+h3{
+    color: #37424A;
+    text-align: right;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.texte03{
+  margin: 0px 300px;
+  padding-top: 40px;
+}
+
+.fables03 p{
+  width: 390px;
+  margin: 0 0 20px 25px;
+  display: inline-block;
+  padding-top: 5em;
+}
+
+h4{
+  text-align: center;
+  margin: 30px 0 50px 0;
+}
+
+.abeille1 {
+  width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.abeille2 {
+  transform: rotate(180deg);
+  width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
